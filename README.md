@@ -1,11 +1,17 @@
 # YMGK24
 Artırılmış Gerçeklik Mobil Uygulama
 
+Proje Konusu:
+
+Proje Linki :
+
+Trello Linki: https://trello.com/b/0GDLsiRQ/proje
+
 1.Hafta-
 
-2.Hafta-
+2.Hafta-Artırılmış Gerçeklik Araştırması
 
-3.Hafta-
+3.Hafta-Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme
 
 4.Hafta-
 
