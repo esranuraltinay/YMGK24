@@ -5,7 +5,7 @@ Proje Konusu:
 
 Proje Linki :
 
-Trello Linki: https://trello.com/b/0GDLsiRQ/proje
+Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 1.Hafta-
 
