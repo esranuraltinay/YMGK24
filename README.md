@@ -9,9 +9,9 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 1.Hafta-
 
-2.Hafta-Artırılmış Gerçeklik Araştırması
+2.Hafta- Artırılmış Gerçeklik Araştırması
 
-3.Hafta-Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme,Trello'da Pano Oluşturma ve Adımların Yazılması
+3.Hafta- Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme,Trello'da Pano Oluşturma ve Adımların Yazılması
 
 4.Hafta- Ders Videolarının İzlenmesi
 
