@@ -11,11 +11,11 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 2.Hafta-Artırılmış Gerçeklik Araştırması
 
-3.Hafta-Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme
+3.Hafta-Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme,Trello'da Pano Oluşturma ve Adımların Yazılması
 
-4.Hafta-
+4.Hafta- Ders Videolarının İzlenmesi
 
-5.Hafta-
+5.Hafta- Proje Kurgulama(Planlama ve Tasarım), Gereksinim Analizi, Sketchfab, Blender, Freepik, Voiser ve Eleventlabs Platformları İncelenmesi
 
 6.Hafta-
 
