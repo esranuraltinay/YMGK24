@@ -17,6 +17,6 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 5.Hafta- Proje Kurgulama(Planlama ve Tasarım), Gereksinim Analizi, Sketchfab, Blender, Freepik, Voiser ve Eleventlabs Platformları İncelenmesi
 
-6.Hafta-
+6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi
 
 7.Hafta-
