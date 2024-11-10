@@ -1,9 +1,9 @@
 # YMGK24
 Artırılmış Gerçeklik Mobil Uygulama
 
-Proje Konusu:
+Proje Konusu/ Masal Kitabının Adı: Müge Her Şeyi Ölçüyor
 
-Proje Linki :
+Proje Website Linki : https://esranuraltinay.github.io/personal-website/
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
@@ -19,4 +19,4 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi
 
-7.Hafta-
+7.Hafta- Diyagramların Oluşturulması ve SWOT Analizi
