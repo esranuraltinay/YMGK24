@@ -3,7 +3,7 @@ Artırılmış Gerçeklik Mobil Uygulama
 
 Proje Konusu/ Masal Kitabının Adı: Müge Her Şeyi Ölçüyor
 
-Proje Website Linki : 
+Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
@@ -19,4 +19,4 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi
 
-7.Hafta- Diyagramların Oluşturulması ve SWOT Analizi
+7.Hafta- Diyagramların Oluşturulması ve SWOT Analizi, SMART Hedefleri, Sunum Hazırlanması
