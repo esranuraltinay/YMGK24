@@ -27,6 +27,9 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 ## 📏 **AR ile Uzunluk Ölçme Uygulaması**
 Bu proje, çocukların uzunluk ölçmeyi eğlenceli ve etkileşimli bir şekilde öğrenmelerine yardımcı olan bir artırılmış gerçeklik (AR) uygulamasıdır. Bir kitap ve bir QR kod kullanarak, çocuklar evlerindeki nesneleri sanal bir cetvel yardımıyla ölçebilirler.
 
+## 📚 **Kitap Hakkında**
+Bu AR uygulaması, Müge Her Şeyi Ölçüyor hikaye kitabı ile entegre çalışır. Kitap, ölçüm yapmayı seven meraklı bir çocuğun hikayesini anlatır ve çocukları keşfetmeye teşvik eder.
+
 ## 🚀 **Projenin Amacı**
 Bu uygulama, çocukların ölçüm kavramını keşfetmesini sağlarken onları eğlendirmeyi amaçlar. Kitapta anlatılan hikaye ve AR uygulaması birlikte çalışarak çocukların öğrenme sürecini pekiştirir.
 
@@ -72,8 +75,6 @@ Talimatları takip ederek ölçüm görevlerine başlayın.
 Sanal cetveli kullanarak çeşitli nesnelerin uzunluklarını ölçün ve öğrenin.
 
 
-## 📚 **Kitap Hakkında**
-Bu AR uygulaması, Müge Her Şeyi Ölçüyor hikaye kitabı ile entegre çalışır. Kitap, ölçüm yapmayı seven meraklı bir çocuğun hikayesini anlatır ve çocukları keşfetmeye teşvik eder.
 
 ## 📝 **Yazar**
 Bu proje, Esranur Altınay tarafından Fırat Üniversitesi'nde yazılım mühendisliği güncel konular dersi kapsamında geliştirilmiştir.
