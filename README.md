@@ -7,6 +7,8 @@ Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
+Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 1.Hafta-
 
 2.Hafta- Artırılmış Gerçeklik Araştırması
