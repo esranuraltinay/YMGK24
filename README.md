@@ -38,7 +38,7 @@ Bu uygulama, çocuklar için artırılmış gerçeklik (AR) teknolojisi ile uzun
 
 ## Ekran Görüntüleri
 
-### ![Ana Sayfa](görseller/anasayfa_1.png)
+### ![Ana Sayfa] (görseller/anasayfa_1.png)
 Kullanıcıları karşılayan hoş bir giriş ekranı.
 
 
