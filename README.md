@@ -20,3 +20,39 @@ Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi
 
 7.Hafta- Diyagramların Oluşturulması ve SWOT Analizi, SMART Hedefleri, Sunum Hazırlanması
+
+
+# AR Uygulaması: Çocuklar için Eğlenceli Uzunluk Ölçümü
+
+Bu uygulama, çocuklar için artırılmış gerçeklik (AR) teknolojisi ile uzunluk ölçüm aktivitelerini eğlenceli hale getirir. İnternet gerektirmeyen bir yapıda tasarlanmıştır ve özellikle uçak yolculuklarında kullanılmak üzere optimize edilmiştir.
+
+---
+
+## Özellikler
+
+- **Artırılmış Gerçeklik Desteği**: Gerçek dünya üzerine uzunluk ölçüm araçları yerleştirin.
+- **Çocuk Dostu Arayüz**: Eğlenceli ve görsel olarak çekici tasarım.
+- **QR Kod Desteği**: Kullanıcılar uygulamayı kolayca erişebilir.
+
+---
+
+## Ekran Görüntüleri
+
+### 1. Ana Sayfa
+Kullanıcıları karşılayan hoş bir giriş ekranı.
+
+
+---
+
+### 2. AR Deneyim Ekranı
+Kullanıcılar, artırılmış gerçeklik ile ölçüm araçlarını keşfedebilir.
+
+
+---
+
+### 3. QR Kod ile Uygulamaya Erişim
+Kullanıcılar bu QR kodu tarayarak AR deneyimini başlatabilir.
+
+
+
+
