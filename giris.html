@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minik Ölçücüler - Giriş Yap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="logo.jpeg" alt="Logo" class="logo">
+            <span class="logo-text">Minik Ölçücüler AR Uygulaması</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Ana Sayfa</a></li>
+                <li><a href="kitap-hakkinda.html">Kitap Hakkında</a></li>
+                <li><a href="ar-dunyasi.html">AR Deneyimi</a></li>
+                <li><a href="giris.html">Giriş Yap</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="welcome-section">
+            <h1>Giriş Yap</h1>
+            <p>Hesabınıza giriş yaparak AR deneyimine katılabilirsiniz.</p>
+            <form onsubmit="return checkLogin(event)" class="login-form">
+                <label for="username">Kullanıcı Adı:</label>
+                <input type="text" id="username" name="username" placeholder="Kullanıcı adınızı girin" required>
+
+                <label for="password">Şifre:</label>
+                <input type="password" id="password" name="password" placeholder="Şifrenizi girin" required>
+
+                <button type="submit">Giriş Yap</button>
+            </form>
+            <p>Hesabınız yok mu? <a href="kayit-ol.html">Hemen kaydolun!</a></p>
+        </section>
+    </main>
+    <footer>
+        © 2024 Minik Ölçücüler AR Uygulaması<br><br>
+        <a href="index.html">Ana Sayfa</a>
+        <a href="kitap-hakkinda.html">Kitap Hakkında</a>
+        <a href="ar-dunyasi.html">AR Deneyimi</a>
+    </footer>
+
+    <script>
+        function checkLogin(event) {
+            event.preventDefault(); // Sayfanın yeniden yüklenmesini engeller
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            if (username === 'admin' && password === 'admin') {
+                alert('Başarıyla giriş yaptınız!');
+                window.location.href = 'ar-dunyasi.html'; // Girişten sonra yönlendirilecek sayfa
+            } else {
+                alert('Hatalı kullanıcı adı veya şifre. Lütfen tekrar deneyin.');
+            }
+        }
+    </script>
+</body>
+
+</html>
