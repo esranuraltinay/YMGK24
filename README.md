@@ -1,13 +1,13 @@
 # 🎮 YMGK24
 Artırılmış Gerçeklik Web Tabanlı Uygulama
 
-Masal Kitabının Adı: **Müge Her Şeyi Ölçüyor**
+📙 Masal Kitabının Adı: **Müge Her Şeyi Ölçüyor**
 
-Projenin Adı: **Minik Ölçücüler**
+✏️ Projenin Adı: **Minik Ölçücüler**
 
 ##
 
-Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
+🔗Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
@@ -33,7 +33,7 @@ HAFTALIK iŞ-ZAMAN ÇİZELGESİ
 
 5.Hafta- Proje Kurgulama(Planlama ve Tasarım), Gereksinim Analizi, Sketchfab, Blender, Freepik, Voiser ve Eleventlabs Platformları İncelenmesi
 
-6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi
+6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi, AR Uygulaması
 
 7.Hafta- Diyagramların Oluşturulması ve SWOT Analizi, SMART Hedefleri, Sunum Hazırlanması
 
