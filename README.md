@@ -7,40 +7,25 @@ Artırılmış Gerçeklik Web Tabanlı Uygulama
 
 ##
 
-🔗Proje Website Linki: https://esranuraltinay.github.io/YMGK24/
+🌐Proje Website Linki: https://esranuraltinay.github.io/YMGK24/
 
-Kullanıcı Kılavuzu: https://drive.google.com/file/d/1abnfgP07xwTe6S_vimyzBzVDLhI1KIRp/view?usp=sharing
+🔗Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
-Programcı Kılavuzu: https://drive.google.com/file/d/1RcRehldbtQbQn9qCkuxRq-NsfqS_VTVV/view?usp=sharing
+🕮Kullanıcı Kılavuzu: https://drive.google.com/file/d/1abnfgP07xwTe6S_vimyzBzVDLhI1KIRp/view?usp=sharing
 
-Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
+🕮Programcı Kılavuzu: https://drive.google.com/file/d/1RcRehldbtQbQn9qCkuxRq-NsfqS_VTVV/view?usp=sharing
 
-SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHbPzf5yrx/view?usp=sharing
+🗎⚡SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHbPzf5yrx/view?usp=sharing
 
-THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu1dxwjXonmU_kBC/edit?usp=drive_link&ouid=113410779715932937264&rtpof=true&sd=true
+🗎THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu1dxwjXonmU_kBC/edit?usp=drive_link&ouid=113410779715932937264&rtpof=true&sd=true
 
-SWOT - SMART - GANTT - FONKSİYONEL/FONKSİYONEL OLMAYAN GEREKSİNİMLER VE DİYAGRAMLAR: https://drive.google.com/file/d/1cFRDMA-cdzslS1jk5ekUpxWaLD8QHuIs/view?usp=sharing
+🗎SWOT - SMART - GANTT - Fonksiyonel/Fonskiyonel Olmayan Gereksinimler Ve Diyagramlar: https://drive.google.com/file/d/1cFRDMA-cdzslS1jk5ekUpxWaLD8QHuIs/view?usp=sharing
 
-Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+🗨️Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
+⏯️Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
 
 ##
-
-HAFTALIK iŞ-ZAMAN ÇİZELGESİ
-
-1-2.Hafta- Artırılmış Gerçeklik Araştırması
-
-3.Hafta- Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme,Trello'da Pano Oluşturma ve Adımların Yazılması
-
-4.Hafta- Ders Videolarının İzlenmesi
-
-5.Hafta- Proje Kurgulama(Planlama ve Tasarım), Gereksinim Analizi, Sketchfab, Blender, Freepik, Voiser ve Eleventlabs Platformları İncelenmesi
-
-6.Hafta- Website Oluşturma ve İçerik Düzenlenmesi, AR Uygulaması
-
-7.Hafta- Diyagramların Oluşturulması ve SWOT Analizi, SMART Hedefleri, Sunum Hazırlanması
-
 
 
 
