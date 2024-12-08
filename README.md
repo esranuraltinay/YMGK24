@@ -84,13 +84,13 @@ Kodlama: Hazır AR elementleri, HTML, CSS
 
 ## 🔗 **Kullanım Talimatları**
 1. QR Kodunu Tara:
-AR uygulamasını başlatmak için ana sayfadaki QR kodu tarayın.
+AR uygulamasını başlatmak için AR Deneyimi kısmındaki yer alan iki QR koddan birini tarayarak AR deneyimine başlangıç yapabilirsiniz.
 
 2. AR Deneyimini Başlat:
 Talimatları takip ederek ölçüm görevlerine başlayın.
 
 3. Ölçüm Yap:
-Sanal cetveli kullanarak çeşitli nesnelerin uzunluklarını ölçün ve öğrenin.
+Sanal cetveli kullanarak çeşitli nesnelerin uzunluklarını ölçün ve öğrenin. 
 
 
 
