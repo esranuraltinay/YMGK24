@@ -1,9 +1,11 @@
-# YMGK24
-Artırılmış Gerçeklik Mobil Uygulama
+# 🎮 YMGK24
+Artırılmış Gerçeklik Web Tabanlı Uygulama
 
-Masal Kitabının Adı: Müge Her Şeyi Ölçüyor
+Masal Kitabının Adı: **Müge Her Şeyi Ölçüyor**
 
-Projenin Adı: Minik Ölçücüler
+Projenin Adı: **Minik Ölçücüler**
+
+##
 
 Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
 
@@ -13,17 +15,17 @@ SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHb
 
 THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu1dxwjXonmU_kBC/edit?usp=drive_link&ouid=113410779715932937264&rtpof=true&sd=true
 
-SWOT - SMART - FONKSİYONEL/FONKSİYONEL OLMAYAN GEREKSİNİMLER VE DİYAGRAMLAR: https://drive.google.com/file/d/1cFRDMA-cdzslS1jk5ekUpxWaLD8QHuIs/view?usp=sharing
+SWOT - SMART - GANTT - FONKSİYONEL/FONKSİYONEL OLMAYAN GEREKSİNİMLER VE DİYAGRAMLAR: https://drive.google.com/file/d/1cFRDMA-cdzslS1jk5ekUpxWaLD8QHuIs/view?usp=sharing
 
 Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
 
+##
 
+HAFTALIK iŞ-ZAMAN ÇİZELGESİ
 
-1.Hafta-
-
-2.Hafta- Artırılmış Gerçeklik Araştırması
+1-2.Hafta- Artırılmış Gerçeklik Araştırması
 
 3.Hafta- Mobil Uygulama Ortam Kurulumları ve Giriş, AR Teknolojisi Mobil Uygulama Örnekleri İnceleme,Trello'da Pano Oluşturma ve Adımların Yazılması
 
@@ -92,3 +94,12 @@ Sanal cetveli kullanarak çeşitli nesnelerin uzunluklarını ölçün ve öğre
 
 ## 📝 **Yazar**
 Bu proje, Esranur Altınay tarafından Fırat Üniversitesi'nde yazılım mühendisliğinde güncel konular dersi kapsamında geliştirilmiştir.
+
+## **KAYNAKÇA**
+- Proje dokümantasyonu hazırlanırken, Yazılım Mühendisliği Güncel Konular dersi hocası Sayın
+ Prof. Dr. Fatih Özkaynak’ın derste inceleme amaçlı öğrencilere sunduğu, geçmiş yıllarda
+ grup ödevi olarak gerçekleştirilen Agent Software projesindeki içindekiler bölümü, konu
+ başlıkları ve içeriklerden esinlenilmiştir. Ayrıca, dokümantasyonun geliştirilmesi sürecinde
+ ilgili literatür, akademik kaynaklar ve sektör uygulamaları dikkate alınmıştır.
+- AR uygulaması OverlyApp ile gerçekleştirilmiştir.
+
