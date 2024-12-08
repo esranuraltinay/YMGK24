@@ -11,6 +11,8 @@ Artırılmış Gerçeklik Web Tabanlı Uygulama
 
 Kullanıcı Kılavuzu: https://drive.google.com/file/d/1abnfgP07xwTe6S_vimyzBzVDLhI1KIRp/view?usp=sharing
 
+Programcı Kılavuzu: https://drive.google.com/file/d/1RcRehldbtQbQn9qCkuxRq-NsfqS_VTVV/view?usp=sharing
+
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
 SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHbPzf5yrx/view?usp=drive_link
