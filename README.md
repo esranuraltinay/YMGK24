@@ -15,7 +15,7 @@ Programcı Kılavuzu: https://drive.google.com/file/d/1RcRehldbtQbQn9qCkuxRq-Nsf
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
-SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHbPzf5yrx/view?usp=drive_link
+SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHbPzf5yrx/view?usp=sharing
 
 THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu1dxwjXonmU_kBC/edit?usp=drive_link&ouid=113410779715932937264&rtpof=true&sd=true
 
