@@ -1,11 +1,17 @@
 # YMGK24
 Artırılmış Gerçeklik Mobil Uygulama
 
-Proje Konusu/ Masal Kitabının Adı: Müge Her Şeyi Ölçüyor
+Masal Kitabının Adı: Müge Her Şeyi Ölçüyor
+
+Projenin Adı: Minik Ölçücüler
 
 Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
+
+SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHbPzf5yrx/view?usp=drive_link
+
+THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu1dxwjXonmU_kBC/edit?usp=drive_link&ouid=113410779715932937264&rtpof=true&sd=true
 
 Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
 
