@@ -15,9 +15,11 @@ THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu
 
 SWOT - SMART - FONKSİYONEL/FONKSİYONEL OLMAYAN GEREKSİNİMLER VE DİYAGRAMLAR: https://drive.google.com/file/d/1cFRDMA-cdzslS1jk5ekUpxWaLD8QHuIs/view?usp=sharing
 
+Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
 
-Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 1.Hafta-
 
