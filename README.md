@@ -7,7 +7,9 @@ Artırılmış Gerçeklik Web Tabanlı Uygulama
 
 ##
 
-🔗Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
+🔗Proje Website Linki: https://esranuraltinay.github.io/YMGK24/
+
+Kullanıcı Kılavuzu: https://drive.google.com/file/d/1abnfgP07xwTe6S_vimyzBzVDLhI1KIRp/view?usp=sharing
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
