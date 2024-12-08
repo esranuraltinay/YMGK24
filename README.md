@@ -7,6 +7,8 @@ Proje Website Linki : https://esranuraltinay.github.io/YMGK24/
 
 Trello Linki: https://trello.com/w/yazilimuhendisligiguncelkonular
 
+Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
+
 Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 1.Hafta-
@@ -79,4 +81,4 @@ Sanal cetveli kullanarak çeşitli nesnelerin uzunluklarını ölçün ve öğre
 
 
 ## 📝 **Yazar**
-Bu proje, Esranur Altınay tarafından Fırat Üniversitesi'nde yazılım mühendisliği güncel konular dersi kapsamında geliştirilmiştir.
+Bu proje, Esranur Altınay tarafından Fırat Üniversitesi'nde yazılım mühendisliğinde güncel konular dersi kapsamında geliştirilmiştir.
