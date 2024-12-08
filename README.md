@@ -13,6 +13,8 @@ SRS Dokümanı Linki: https://drive.google.com/file/d/1kAtUwlMYFHLGtLr0_r-NU0YHb
 
 THS Dokümanı Linki: https://docs.google.com/spreadsheets/d/1Lb0Qxwc5GX75WKulyu1dxwjXonmU_kBC/edit?usp=drive_link&ouid=113410779715932937264&rtpof=true&sd=true
 
+SWOT - SMART - FONKSİYONEL/FONKSİYONEL OLMAYAN GEREKSİNİMLER VE DİYAGRAMLAR: https://drive.google.com/file/d/1cFRDMA-cdzslS1jk5ekUpxWaLD8QHuIs/view?usp=sharing
+
 Proje YouTube Video Linki: https://youtu.be/CJM8B2PPr2s
 
 Sunum Linki: https://www.canva.com/design/DAGYh-dLAzc/8uUdK8IUhgWiuu1fWl23Iw/edit?utm_content=DAGYh-dLAzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
